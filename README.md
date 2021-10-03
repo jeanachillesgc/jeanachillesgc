@@ -1,7 +1,4 @@
-## Opa! Tudo bom? // Hi There!
-
-Abaixo deixei algumas informações sobre mim, sobre o que faço atualmente, meus objetivos e como você pode me contatar. 
-
+## Opa! Tudo bom? Aqui é o Jean, estou estudando pra ser desenvolvedor Front-End // Hi There! Here's Jean, I'm studying to become a front-end developer.
 
 - 🔭 Estou trabalhando com Gestão de Acessos na área de Segurança da Informação
 - 🔭 I'm currently working with Access Management
