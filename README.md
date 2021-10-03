@@ -12,6 +12,8 @@ Abaixo deixei algumas informações sobre mim, sobre o que faço atualmente, meu
 
 ##
 
+<!-- https://github.com/rafaballerini/rafaballerini/blob/main/README.md -->
+
 <div style="display: inline_block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"3/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40"3/>
@@ -27,3 +29,5 @@ Abaixo deixei algumas informações sobre mim, sobre o que faço atualmente, meu
 </div>
   
 ![Snake animation](https://github.com/jeanachillesgc/jeanachillesgc/blob/output/github-contribution-grid-snake.svg)
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+  
