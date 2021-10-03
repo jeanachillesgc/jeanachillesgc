@@ -2,8 +2,8 @@
 
 - 🔭 Estou trabalhando com Gestão de Acessos na área de Segurança da Informação
 - 🔭 I'm currently working with Access Management
-- 🌱 I’m studying HTML/CSS/Javascript 
 - 🌱 Estou estudando HTML/CSS/Javascript
+- 🌱 I’m studying HTML/CSS/Javascript 
 - 📫 How to reach me: jean.achille@outlook.com
 - 📫 Contato: jean.achille@outlook.com
 
